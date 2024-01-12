@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5ff4e00-a44e-4501-b4b7-a21cce8018cd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2aVGlxzDys2lNnNin2gxT6eBgoS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.BankTest.testTimedPayment">
+    <configuration name="AccountTest.testTimedPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT-lab-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.AccountTest" />
+      <option name="METHOD_NAME" value="testTimedPayment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testGetBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT-lab-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.BankTest" />
+      <option name="METHOD_NAME" value="testGetBalance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testTimedPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT-lab-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.BankTest" />
+      <option name="METHOD_NAME" value="testTimedPayment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT-lab-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.BankTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testWithdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYT-lab-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.BankTest" />
+      <option name="METHOD_NAME" value="testWithdraw" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankTest.testTimedPayment" />
+        <item itemvalue="JUnit.AccountTest.testTimedPayment" />
+        <item itemvalue="JUnit.BankTest.testTransfer" />
+        <item itemvalue="JUnit.BankTest.testGetBalance" />
+        <item itemvalue="JUnit.BankTest.testWithdraw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5ff4e00-a44e-4501-b4b7-a21cce8018cd" name="Changes" comment="" />
+      <created>1704396489334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704396489334</updated>
+      <workItem from="1704396490357" duration="6151000" />
+      <workItem from="1704479624540" duration="1568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
